@@ -2,7 +2,13 @@
 This program is a simple Tic-Tac-Toe game
 inspired by lesson in "Automate the Boring Stuff with Python"
 '''
-
+'''
+TODO:
+- game against computer
+- choice of sign you want to play with
+- optimize input for positions (ex. accepts lowercase)
+- play the game in browser
+'''
 import random
 
 messages = ['That is a good place to start!', 'Cool move.', 'Nicely done!', 'Smart!']
